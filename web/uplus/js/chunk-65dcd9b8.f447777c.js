@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-65dcd9b8"],{"978a":function(n,e,t){},f2f2:function(n,e,t){"use strict";var c=t("978a"),o=t.n(c);o.a},f74c:function(n,e,t){"use strict";t.r(e);var c=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("router-view")},o=[],u={name:"wordBook"},f=u,i=(t("f2f2"),t("048f")),r=Object(i["a"])(f,c,o,!1,null,"06420cc0",null);r.options.__file="index.vue";e["default"]=r.exports}}]);
+//# sourceMappingURL=chunk-65dcd9b8.f447777c.js.map
